@@ -1,2 +1,0 @@
-# FazenTchec
-Atividades Interdisciplinares
